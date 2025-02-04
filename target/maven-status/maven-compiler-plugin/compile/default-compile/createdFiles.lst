@@ -1,0 +1,9 @@
+com/trainibit/test_notifications/service/impl/KafkaProducerServiceImpl.class
+com/trainibit/test_notifications/request/UserDataRequestKafka.class
+com/trainibit/test_notifications/service/impl/KafkaConsumerServiceImpl.class
+com/trainibit/test_notifications/service/KafkaConsumerService.class
+com/trainibit/test_notifications/config/KafkaConsumerConfig.class
+com/trainibit/test_notifications/config/KafkaProducerConfig.class
+com/trainibit/test_notifications/response/UserDataResponseKafka.class
+com/trainibit/test_notifications/TestNotificationsApplication.class
+com/trainibit/test_notifications/service/KafkaProducerService.class

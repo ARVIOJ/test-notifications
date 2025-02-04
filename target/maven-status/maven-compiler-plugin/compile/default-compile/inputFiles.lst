@@ -1,0 +1,9 @@
+/Users/trainibit03/Documents/code/tp2501/test-notifications/src/main/java/com/trainibit/test_notifications/TestNotificationsApplication.java
+/Users/trainibit03/Documents/code/tp2501/test-notifications/src/main/java/com/trainibit/test_notifications/config/KafkaConsumerConfig.java
+/Users/trainibit03/Documents/code/tp2501/test-notifications/src/main/java/com/trainibit/test_notifications/config/KafkaProducerConfig.java
+/Users/trainibit03/Documents/code/tp2501/test-notifications/src/main/java/com/trainibit/test_notifications/request/UserDataRequestKafka.java
+/Users/trainibit03/Documents/code/tp2501/test-notifications/src/main/java/com/trainibit/test_notifications/response/UserDataResponseKafka.java
+/Users/trainibit03/Documents/code/tp2501/test-notifications/src/main/java/com/trainibit/test_notifications/service/KafkaConsumerService.java
+/Users/trainibit03/Documents/code/tp2501/test-notifications/src/main/java/com/trainibit/test_notifications/service/KafkaProducerService.java
+/Users/trainibit03/Documents/code/tp2501/test-notifications/src/main/java/com/trainibit/test_notifications/service/impl/KafkaConsumerServiceImpl.java
+/Users/trainibit03/Documents/code/tp2501/test-notifications/src/main/java/com/trainibit/test_notifications/service/impl/KafkaProducerServiceImpl.java
